@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "lists-and-dictionaries",
+      "title": "Lists and Dictionaries",
+      "description": "Practice organizing related data in Python using lists and dictionaries.",
+      "path": "assignments/lists-and-dictionaries",
+      "dueDate": "2026-07-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
